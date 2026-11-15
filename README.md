@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://www.alibi-app.workers.dev/"><b>Live demo: alibi-app.workers.dev</b></a>
-  &nbsp;·&nbsp;
   <a href="https://youtu.be/CPnbEoRS-OY">Watch the demo video</a>
 </p>
 
